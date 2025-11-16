@@ -1,35 +1,38 @@
 # Excel-Dashboard
-Project Overview
+📊 Vrinda Store Annual Sales Dashboard
 
-The purpose of this project is to analyze Vrinda Store’s monthly sales performance using Excel tools and create an interactive dashboard that highlights key business insights.
+This dashboard provides a data-driven analysis of Vrinda Store’s complete annual performance.
+It visually represents orders, sales, customer demographics, channels, states, and order status to help understand business trends.
 
-The dashboard focuses on:
+🔍 Key Features
 
-Order trends
+📈 Order vs Sales Trends (12 months)
 
-Sales performance
+🧁 Order Status Breakdown (92% delivered)
 
-Customer demographics
+🧍‍♂️🧍‍♀️ Men vs Women Purchase Ratio (31:69)
 
-Top-selling states
+🗺️ Top 5 States Contributing to Revenue
 
-Business channels
+👥 Age-wise Gender Distribution
 
-✨ Key Features
+🛒 Channel-wise Orders (Amazon, Myntra, Ajio, Meesho, Nalli)
 
-Interactive Dashboard created using Pivot Tables, Pivot Charts, and Slicers.
+📌 Dynamic Filters for Month, Category, Channel
 
-Data Cleaning & Preparation using functions, filters, conditional formatting, and removal of duplicates.
+📌 Insights Summary
 
-Monthly Sales Trend Analysis to understand peak and low-performing months.
+Sales increased by nearly 12% in March, marking the best-performing month.
 
-Customer Demographics to analyze sales by age and gender.
+Women buyers contribute 69%, making them the key customer segment.
 
-Order & Sales Channel Analysis to understand which platforms perform best.
+Amazon (36%) is the most profitable channel.
 
-State-wise Performance to identify top contributing regions.
+Maharashtra (2990M) is the top revenue-generating state.
 
-🛠 Tools & Techniques Used
+92% delivery success rate, showing excellent service performance.
+
+🛠️ Tools Used
 
 Microsoft Excel
 
@@ -37,44 +40,9 @@ Pivot Tables
 
 Pivot Charts
 
-Slicers & Timelines
+Slicers and Filters
 
-Data Cleaning
+Data Cleaning & Formatting
 
-Conditional Formatting
-
-Lookup Functions (VLOOKUP / XLOOKUP)
-
-Basic & Advanced Excel formulas
-
-📈 Key Insights
-
-Highest sales come from specific states and channels.
-
-Female customers contribute more to overall sales.
-
-Sales intake varies significantly across months.
-
-Certain age groups show higher purchasing behavior.
-
-🎯 Project Outcome
-
-This dashboard helps Vrinda Store to:
-
-Identify sales opportunities
-
-Understand customer behavior
-
-Track monthly performance
-
-Improve channel strategy
-
-Make informed business decisions
-
-🚀 How to Use
-
-Download the Excel file from this repository.
-
-Use slicers to filter by month, gender, order status, and channel.
-
-Explore insights from interactive charts and Pivot Tables.
+Dashboard Design<img width="1907" height="723" alt="Screenshot 2025-11-16 154644" src="https://github.com/user-attachments/assets/939c1ea1-f367-48af-9c47-fcd52ac4872e" />
+.
